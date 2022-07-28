@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_email.xml" value="0.21302083333333333" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_exit_.xml" value="0.1078125" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_explore.xml" value="0.17291666666666666" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_location.xml" value="0.21302083333333333" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_phone.xml" value="0.21302083333333333" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_video_maker.xml" value="0.1078125" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/ic_wikipedia_icon.xml" value="0.21302083333333333" />
+        <entry key="..\:/wikipeddia/app/src/main/res/drawable/shape_circle.xml" value="0.21302083333333333" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/activity_main2.xml" value="0.19384615384615383" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/activity_main3.xml" value="0.18518518518518517" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/activity_main4.xml" value="0.17037037037037037" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/fragmentPhotographer.xml" value="0.18518518518518517" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/fragmentexplore.xml" value="0.22" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/fragmentphotographer.xml" value="0.2556179775280899" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/fragmentprofile.xml" value="0.25" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/fragmenttrend.xml" value="0.67" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/header_main.xml" value="0.25" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/item_card.xml" value="0.33" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/item_explore.xml" value="0.33" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/item_moarefi.xml" value="0.196875" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/item_ternd.xml" value="0.75" />
+        <entry key="..\:/wikipeddia/app/src/main/res/layout/itemcard.xml" value="0.196875" />
+        <entry key="..\:/wikipeddia/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.196875" />
+        <entry key="..\:/wikipeddia/app/src/main/res/menu/menu_main.xml" value="0.18518518518518517" />
+        <entry key="..\:/wikipeddia/app/src/main/res/menu/menu_navigation_drawer.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
